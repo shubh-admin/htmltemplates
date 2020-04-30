@@ -1,5 +1,5 @@
 # Basic coming soon template
-This is a basic coming soon template built with html,css, and javascript.
+This is a basic coming soon template built with html,css, and javascript. This template is absolutely free to use.
 
 ## Template structure
 - index.html
@@ -20,3 +20,6 @@ This is a basic coming soon template built with html,css, and javascript.
 ## Credits
 - Image credits to [Unsplash](https://unsplash.com)
 - Script credits to [w3school](https://www.w3schools.com/js/js_functions.asp)
+
+## Contributors
+- [Gaurav Arora](https://github.com/garora)
