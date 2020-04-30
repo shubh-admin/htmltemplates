@@ -15,7 +15,7 @@ This is a basic coming soon template built with html,css, and javascript. This t
   - script.js
 
 ## Screenshot
-![Image Coming soon](/Basic/basic.png)
+![Image Coming soon](/Basic/images/basic.png)
 
 ## Credits
 - Image credits to [Unsplash](https://unsplash.com)
